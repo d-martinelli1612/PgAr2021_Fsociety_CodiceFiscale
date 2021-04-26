@@ -1,6 +1,7 @@
 /*Classe per la lettura dei dati presenti nei file XML: comuni; inputPersone; codiciFiscali
 * conferma 1 funzionamento
-* conferma 2 funzionamento*/
+* conferma 2 funzionamento
+* conferma 3 funzionamento*/
 
 package it.unibs.Pa.codiceFiscale;
 
