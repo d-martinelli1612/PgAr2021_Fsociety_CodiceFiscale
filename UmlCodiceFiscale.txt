@@ -1,0 +1,47 @@
+
+
+
+ @bonny 
+
+classe : 
+	Persona 
+attributi :
+ 	nome
+	cognome
+	comune_nascita
+	sesso
+	data_nascita
+	codiceFiscale
+
+metodi : 
+	generaCodici ( .... ) : return char[]
+	
+	confrontoCodici ( ) : return char [] 
+
+	verificaCodici () : return boolen 
+
+	 
+ @diego 	
+classe : 
+	InputXml 
+
+attributi : 
+
+
+
+
+
+
+
+ @Andrea 
+classe : 
+	outputXml
+
+Attributi : 
+
+	
+	
+	 
+
+	 
+		
